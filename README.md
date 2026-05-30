@@ -157,7 +157,7 @@ This system significantly reduces the time spent searching procurement documents
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/smartprocure-rag.git
+git clone https://github.com/your-Ruchii151/smartprocure-rag.git
 cd smartprocure-rag
 ```
 
@@ -182,3 +182,10 @@ streamlit run app.py
 ## Conclusion
 
 SmartProcure-RAG demonstrates the practical application of Retrieval-Augmented Generation in procurement and supply chain operations. By combining semantic search, vector databases, and Large Language Models, the system enables efficient retrieval of supplier knowledge and transforms unstructured procurement documents into actionable business insights.
+
+
+## Demo Video
+
+https://github.com/user-attachments/assets/fa4d8a01-7edf-47e0-b048-8ebbe7ff6ad3
+
+
